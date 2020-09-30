@@ -17,5 +17,6 @@
     "audio-recorder": true
   },
   "readableLineLength": false,
-  "attachmentFolderPath": "assets/images"
+  "attachmentFolderPath": "assets/images",
+  "newLinkFormat": "relative"
 }
