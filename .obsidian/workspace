@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "b818c81f931595ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc2ddf5aafaa5c50",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "inbox.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ca56db3564bef5a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6ac77ee60240677",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0239ef1d7f31c796",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9d9a2232e2a3fea2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          },
+          {
+            "id": "9800f88eb888a19b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "574ba474e7e0cfc7",
+    "type": "split",
+    "children": [
+      {
+        "id": "5960cc86a381ca9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aafe156b76635116",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "inbox.md"
+              }
+            }
+          },
+          {
+            "id": "afc2b899d6767bcf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "inbox.md",
+    "todo.md",
+    "README.md"
+  ]
+}
