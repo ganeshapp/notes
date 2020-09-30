@@ -1,3 +1,3 @@
 # Notes
 
-All my notes 
+All my notes on [[Core Problems]], [[Startup]], [[Critical Thinking]]
