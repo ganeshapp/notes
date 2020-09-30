@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "journal/2020-09-30.md",
+            "file": "core-problems.md",
             "mode": "source"
           }
         }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2020-09-30.md"
+                "file": "core-problems.md"
               }
             }
           },
@@ -91,13 +91,13 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "journal/2020-09-30.md",
-    "critical-thinking.md",
     "core-problems.md",
+    "README.md",
+    "critical-thinking.md",
+    "journal/2020-09-30.md",
     "inbox.md",
     "todo.md",
     "startups.md",
-    "README.md",
     "Startup.md",
     "Critical Thinking.md",
     "Core Problems.md"
