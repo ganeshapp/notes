@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Startup.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -68,7 +71,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "Startup.md"
+              }
             }
           },
           {
@@ -86,11 +91,14 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "Core Problems.md",
+    "Startup.md",
+    "startups.md",
+    "critical-thinking.md",
     "Critical Thinking.md",
+    "Core Problems.md",
+    "Untitled.md",
     "README.md",
     "todo.md",
-    "Startup.md",
     "inbox.md",
     "assets/images/Pasted image 20200930153109.png"
   ]
