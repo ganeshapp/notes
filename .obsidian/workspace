@@ -8,11 +8,8 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Core Problems.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -71,9 +68,7 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {
-                "file": "Core Problems.md"
-              }
+              "state": {}
             }
           },
           {
@@ -92,8 +87,8 @@
   },
   "lastOpenFiles": [
     "Core Problems.md",
-    "README.md",
     "Critical Thinking.md",
+    "README.md",
     "todo.md",
     "Startup.md",
     "inbox.md",
