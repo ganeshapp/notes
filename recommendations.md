@@ -26,6 +26,25 @@ Climbing/Bouldering is not just a full-body workout, it is also a problem solvin
 
 Bouldering is also travel friendly. As most cities in the world, have some bouldering gym close by. Some of them will also let you rent the shoes, if you didn't bring yours along. 
 
+## Books
+- All PG Wodehouse
+- City of Thieves
+- Motorcycle Diaries
+- On the Road
+- Business Model Navigator
+- Zero to One
+- The Bitcoin Standard
+
+## Graphic Novels/Comic Strips
+- Calvin and Hobbes
+- xkcd
+- Dilbert
+- Maus
+- Rurouni Kensin
+- Naruto
+- Old Boy
+- One Punch Man
+
 ## Indian Movies
 
 | Film                                                                 | Language  |
@@ -36,3 +55,12 @@ Bouldering is also travel friendly. As most cities in the world, have some bould
 | ['96](https://en.wikipedia.org/wiki/%2796_(film))                    | Tamil     |
 | [Jigarthanda](https://en.wikipedia.org/wiki/Jigarthanda_(2014_film)) | Tamil     |
 | [Drishyam](https://en.wikipedia.org/wiki/Drishyam_(2015_film))       | Malayalam |
+
+## Web/TV Series
+- Dr. House
+- Friends
+- How I met your mother
+- Cheers
+- Game of Thrones (except last season)
+- Kim’s Convenience
+- TVF Pitchers
