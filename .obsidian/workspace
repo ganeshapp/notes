@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "recommendations.md",
+            "file": "inbox.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -72,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "recommendations.md"
+                "file": "inbox.md"
               }
             }
           },
@@ -91,11 +92,11 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "recommendations.md",
     "inbox.md",
-    "workout.md",
     "todo.md",
     "journal/2020-09-30.md",
+    "recommendations.md",
+    "workout.md",
     "Untitled.md",
     "README.md",
     "core-problems.md",
