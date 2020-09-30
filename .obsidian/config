@@ -18,5 +18,6 @@
   },
   "readableLineLength": false,
   "attachmentFolderPath": "assets/images",
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "spellcheck": true
 }
