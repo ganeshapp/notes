@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Core Problems.md",
             "mode": "source"
           }
         }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md"
+                "file": "Core Problems.md"
               }
             }
           },
@@ -91,12 +91,12 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "README.md",
     "Core Problems.md",
+    "README.md",
     "Critical Thinking.md",
+    "todo.md",
     "Startup.md",
     "inbox.md",
-    "assets/images/Pasted image 20200930153109.png",
-    "todo.md"
+    "assets/images/Pasted image 20200930153109.png"
   ]
 }
