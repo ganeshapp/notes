@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "inbox.md",
+            "file": "Core Problems.md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -73,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox.md"
+                "file": "Core Problems.md"
               }
             }
           },
@@ -92,15 +91,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "inbox.md",
-    "todo.md",
-    "journal/2020-09-30.md",
-    "recommendations.md",
-    "workout.md",
-    "Untitled.md",
+    "Core Problems.md",
     "README.md",
     "core-problems.md",
     "critical-thinking.md",
-    "startups.md"
+    "inbox.md",
+    "recommendations.md",
+    "workout.md",
+    "todo.md",
+    "journal/2020-09-30.md",
+    "Untitled.md"
   ]
 }
