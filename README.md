@@ -19,8 +19,7 @@ $$
 {% include math.html %}
 
 
-If I scrap X units. The Inventory Line item goes up by X * [COGS] - [Liquidation]
-ADSFA  
+If I scrap X units. The Inventory Line item goes up by X * [COGS] - [Liquidation]  
 
 $F(IL)$ $=$ $(Units * COGS)$ - $(9$%$ * COGS)$
 
