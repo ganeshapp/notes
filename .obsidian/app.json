@@ -2,5 +2,6 @@
   "readableLineLength": false,
   "attachmentFolderPath": "assets/images",
   "newLinkFormat": "relative",
-  "spellcheck": true
+  "spellcheck": true,
+  "promptDelete": false
 }
