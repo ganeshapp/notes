@@ -23,9 +23,9 @@ $$
 
 If I scrap X units. The Inventory Line item goes up by X * [COGS] - [Liquidation]  
 
-$$F(IL)$$ $$=$$ $$(Units * COGS)$$ - $$(9$$%$$ * COGS)$$
+$$F(IL) = (Units * COGS) - (9 \% * COGS)$$
 
-  
+  $$\dfrac {\displaystyle\sum_{i=1}^3 \Bigg( \dfrac{ \# \space Units \space bought \space in \space this \space Kan5 \space category \space in \space month_i}{\# \space customers \space who \space bought \space this \space Kan5 \space category \space in \space month_i}\Bigg)}{3}$$
 
 Rewritten:
 
