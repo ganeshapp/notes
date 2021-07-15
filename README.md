@@ -16,7 +16,9 @@ x_{21} & x_{22} & \ldots \\
 $$
 
 
-{% include math.html %}
+
+
+asdf
 
 
 If I scrap X units. The Inventory Line item goes up by X * [COGS] - [Liquidation]  
@@ -36,3 +38,5 @@ $F(IL)$ $=$ $(Units * ASP*(1-PPM))$ - $(Units * 9$%$ * ASP*(1-PPM))$
 Incremental CP:
 
 $\Delta$ $CP$ $=$ $ - F(IL)$
+
+{% include math.html %}
