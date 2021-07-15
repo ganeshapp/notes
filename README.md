@@ -1,5 +1,12 @@
 {% include math.html %}
 
+---
+layout: default
+description: blah blah
+title: home
+id: home
+---
+
 # Notes
 
 
