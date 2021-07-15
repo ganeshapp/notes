@@ -20,8 +20,7 @@ $$
 
 
 If I scrap X units. The Inventory Line item goes up by X * [COGS] - [Liquidation]
-
-  
+ADSFA  
 
 $F(IL)$ $=$ $(Units * COGS)$ - $(9$%$ * COGS)$
 
