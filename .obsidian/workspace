@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "bc2ddf5aafaa5c50",
+        "id": "2c408b3a2bc67c7d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "recommendations.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "recommendations.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "recommendations.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,17 +124,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "bc2ddf5aafaa5c50",
+  "active": "2c408b3a2bc67c7d",
   "lastOpenFiles": [
+    "README.md",
+    "_includes/Untitled.md",
     "recommendations.md",
     "workout.md",
     "inbox.md",
     "critical-thinking.md",
     "consumption-vs-creation.md",
-    "README.md",
     "core-problems.md",
     "startups.md",
-    "journal/2020-09-30.md",
-    "Core Problems.md"
+    "journal/2020-09-30.md"
   ]
 }
