@@ -13,6 +13,9 @@ Here are some of the things I recommend.
 ### Foam
 Combining Obsidian with [Foam](https://foambubble.github.io/foam/) helps keep all your knowledge synced across devices. Foam itself can be used with VS Code. But the feature of finding unlinked references in Obsidian is quite helpful. At some point there will be some workflow in Foam to do the same, but till then I will probably use Obsidian to take the notes and VS Code to sync them to [[github-pages]].
 
+### Mem.ai
+[Mem.ai](https://mem.ai/) is for quick notes taking which is web based (Mac has an app). It has very good search function, and hence can be used to drop any note. Also can create notes using whatsapp messages.
+
 
 ## Workout
 
@@ -64,3 +67,4 @@ Bouldering is also travel friendly. As most cities in the world, have some bould
 - Game of Thrones (except last season)
 - Kim’s Convenience
 - TVF Pitchers
+- Family Man

@@ -3,5 +3,9 @@
   "attachmentFolderPath": "assets/images",
   "newLinkFormat": "relative",
   "spellcheck": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "trashOption": "system",
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true
 }
