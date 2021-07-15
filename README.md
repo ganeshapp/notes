@@ -1,4 +1,8 @@
+{% include math.html %}
+
 # Notes
+
+
 
 All my notes on the [core-problems](core-problems.md), [startups](startups.md), [critical-thinking](critical-thinking.md)
 
@@ -15,10 +19,6 @@ x_{21} & x_{22} & \ldots \\
 \end{array} \right)
 $$
 
-
-
-
-asdf
 
 
 If I scrap X units. The Inventory Line item goes up by X * [COGS] - [Liquidation]  
@@ -39,4 +39,3 @@ Incremental CP:
 
 $\Delta$ $CP$ $=$ $ - F(IL)$
 
-{% include math.html %}
