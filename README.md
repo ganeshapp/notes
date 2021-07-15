@@ -1,6 +1,6 @@
 # Notes
 
-All my notes on the [[core-problems]], [[startups]], [[critical-thinking]]
+All my notes on the [[core-problems]], [[startups]], [[critical-thinking]], [[workout]]
 
 ## Essays
 
