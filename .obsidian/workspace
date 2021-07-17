@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Introduction to Deep Web.md",
             "mode": "source"
           }
         }
@@ -76,14 +76,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Introduction to Deep Web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Introduction to Deep Web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -126,15 +127,15 @@
   },
   "active": "2c408b3a2bc67c7d",
   "lastOpenFiles": [
-    "README.md",
-    "_includes/Untitled.md",
+    "Deep Web.md",
+    "Second Brain.md",
+    "Untitled.md",
     "recommendations.md",
-    "workout.md",
+    "README.md",
     "inbox.md",
+    "journal/2020-09-30.md",
     "critical-thinking.md",
-    "consumption-vs-creation.md",
-    "core-problems.md",
-    "startups.md",
-    "journal/2020-09-30.md"
+    "_includes/Untitled.md",
+    "workout.md"
   ]
 }

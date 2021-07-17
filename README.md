@@ -2,7 +2,7 @@
 
 # Notes
 
-All my notes on the [core-problems](core-problems.md), [startups](startups.md), [critical-thinking](critical-thinking.md)
+All my notes on the [Core Problems](core-problems.md), [Startups](startups.md), [Critical Thinking](critical-thinking.md)
 
 ## Essays
 
